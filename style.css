@@ -1,0 +1,73 @@
+*{
+				font-family: 'Trispace', sans-serif;
+
+
+}
+body{
+				background-image: url('doujin.jpg') ;
+				background-image-opacity:.5;
+				background-position: center top ;
+				background-repeat:no-repeat;
+				background-attachment:fixed ;
+				background-size:cover;
+				overflow:hidden;
+				background-size: 100vw auto;
+			
+}
+.headbar{
+				background-color: #fcfffc;
+				width:400px;
+				margin-top: 130px;
+				padding:2px;
+				margin-bottom: 130px;
+}
+.headbar h1{
+				text-align:center;
+				font-size:20px;
+				opacity:.7;
+}
+.headbar p{
+				font-size:10px;
+				text-align:right;
+				margin-right: 3px;
+				opacity:.3;
+}
+.inputb{
+				box-sizing:border-box;
+				width:200px;
+				height:70px;
+				display:block;
+				outline:none;
+				margin-left: 95px;
+				border:2px solid #000000;
+				border-radius: 25px;
+				padding:30px 40px 30px 40px;
+				font-size:30px;
+				margin-bottom:40px;
+}
+.linkc{
+				text-decoration:none;
+				color:#fff;
+}
+.btn{
+				box-sizing:border-box;
+				margin-left: 160px;
+				width:60px;
+				height:30px;
+				background-color: #000000;
+				padding:7px 10px 5px 18px;
+				border-radius: 21px;
+				margin-bottom:200px;
+}
+.credit{
+				box-sizing:border-box;
+				width: 120px;
+				height: 20px;
+				margin-left: 140px;
+				background-color: #fcfffc99;
+				
+}
+.credit p{
+				font-size:12px;
+				opacity:.8;
+}
